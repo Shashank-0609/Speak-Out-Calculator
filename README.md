@@ -1,13 +1,13 @@
-🗣️ Speak Up Calculator
-Speak Up Calculator is a voice-enabled calculator built using HTML, CSS, JavaScript, and Web Speech API. It allows users to perform basic arithmetic operations through voice commands or manual input. The app also maintains a scrollable history of past calculations for easy reference.
 
-🚀 Features
-🎙️ Voice input support (using Web Speech API)
+"Speak Up Calculator" is a voice-enabled calculator built using HTML, CSS, JavaScript, and Web Speech API. It allows users to perform basic arithmetic operations through voice commands or manual input. The app also maintains a scrollable history of past calculations for easy reference.
 
-🖱️ Button-based manual input
+-Features
+  -> Voice input support (using Web Speech API)
 
-📜 Real-time calculation history
+  -> Button-based manual input
 
-🧮 Supports %, square, and basic arithmetic operations (+, −, ×, ÷)
+  -> Real-time calculation history
 
-📱 Responsive layout using Bootstrap
+  -> Supports %, square, and basic arithmetic operations (+, −, ×, ÷)
+
+  -> Responsive layout using Bootstrap
